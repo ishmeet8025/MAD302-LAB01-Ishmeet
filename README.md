@@ -4,5 +4,4 @@
 Name: Ishmeet Singh
 Student ID: A00202436
 
-Complete Android Studio project including Gradle configuration.
-Open in Android Studio and Sync to run.
+Full Android Studio structured project with Gradle and .idea folders.

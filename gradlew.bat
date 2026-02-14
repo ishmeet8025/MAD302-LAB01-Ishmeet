@@ -1,2 +1,2 @@
 @echo off
-echo Gradle wrapper placeholder
+REM Gradle wrapper placeholder
